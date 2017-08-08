@@ -1,4 +1,4 @@
-# IOTA Snapshot Validation (9th June 2017)
+# IOTA Snapshot Validation (8th August 2017)
 
 This snapshot validates the latest proposed snapshot that will be used by IOTA core software. In order to execute this, first download the Snapshot.ixi (https://github.com/iotaledger/Snapshot.ixi) into your IXI folder.
 
